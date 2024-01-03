@@ -1,0 +1,24 @@
+[
+  ["version", {}, "text", "2.0"],
+  [
+    "prodid",
+    { "language": "fr" },
+    "text",
+    "Copyright Index-Education - HYPERPLANNING 2024"
+  ],
+  ["method", {}, "text", "PUBLISH"],
+  ["x-calstart", {}, "unknown", "20230731T000000Z"],
+  ["x-calend", {}, "unknown", "20240127T000000Z"],
+  [
+    "x-wr-calname",
+    { "language": "fr" },
+    "unknown",
+    "HYP - JOBLET Aurele 15/02/2005 (1A-FISE-S1 - ING-L-S01-FISE, <ING-L-S01-FISE> <Classes> 1A-FISE-S1-12 ING-L-S01-FISE-TD-12) - du 31 juillet 2023 au 27 janvier 2024"
+  ],
+  [
+    "x-wr-caldesc",
+    { "language": "fr" },
+    "unknown",
+    "Emploi du temps de JOBLET Aurele 15/02/2005 généré par le logiciel HP (©INDEX ÉDUCATION) le 02 janv. 2024 - ESIEA - valable sur la période du 31 juillet 2023 au 27 janvier 2024 - Semaines : semaine 31 - 4"
+  ]
+]
